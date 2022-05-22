@@ -1,6 +1,6 @@
 # Cover Generator 
 
-The cover generator is a plugin for Unreal Engine 4. 
+The cover generator is a plugin for Unreal Engine 5. 
 
 ![Example Covers](https://cloud.githubusercontent.com/assets/6062062/23833642/d3113832-0748-11e7-96b2-104c767ba6c4.gif)
 
